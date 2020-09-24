@@ -1,0 +1,42 @@
+[ActiveSymbolKeyValues]
+ActiveSymbolKeyVal_(2)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(2)=1195
+ActiveSymbolKeyLeftCoordinates_(2)=2715
+ActiveSymbolKeyVal_(3)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(3)=1645
+ActiveSymbolKeyLeftCoordinates_(3)=3150
+ActiveSymbolKeyVal_(4)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(4)=1465
+ActiveSymbolKeyLeftCoordinates_(4)=5475
+ActiveSymbolKeyVal_(5)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(5)=1405
+ActiveSymbolKeyLeftCoordinates_(5)=8445
+ActiveSymbolKeyVal_(6)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(6)=1315
+ActiveSymbolKeyLeftCoordinates_(6)=9345
+ActiveSymbolKeyVal_(7)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(7)=1285
+ActiveSymbolKeyLeftCoordinates_(7)=11685
+ActiveSymbolKeyVal_(8)=SymbolKeyCode(163)
+ActiveSymbolKeyTopCoordinates_(8)=1345
+ActiveSymbolKeyLeftCoordinates_(8)=12540
+ActiveSymbolKeyVal_(9)=SymbolKeyCode(162)
+ActiveSymbolKeyTopCoordinates_(9)=3385
+ActiveSymbolKeyLeftCoordinates_(9)=2190
+ActiveSymbolKeyVal_(10)=SymbolKeyCode(87)
+ActiveSymbolKeyTopCoordinates_(10)=3040
+ActiveSymbolKeyLeftCoordinates_(10)=12780
+ActiveSymbolKeyVal_(11)=SymbolKeyCode(87)
+ActiveSymbolKeyTopCoordinates_(11)=3100
+ActiveSymbolKeyLeftCoordinates_(11)=13290
+ActiveSymbolKeyVal_(12)=SymbolKeyCode(87)
+ActiveSymbolKeyTopCoordinates_(12)=3310
+ActiveSymbolKeyLeftCoordinates_(12)=13455
+
+[InsertedLinesType]
+InsertedLinesType(0)=Treble Line
+InsertedLinesType(1)=Bass Line
+InsertedLinesType(2)=Alto Line
+InsertedLinesType(3)=Tenor Line
+InsertedLinesType(4)=8vb Treble Line
+InsertedLinesType(5)=Drum Line

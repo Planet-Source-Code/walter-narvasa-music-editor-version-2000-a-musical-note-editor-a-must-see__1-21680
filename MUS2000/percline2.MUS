@@ -1,0 +1,39 @@
+[ActiveSymbolKeyValues]
+ActiveSymbolKeyVal_(8)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(8)=1975
+ActiveSymbolKeyLeftCoordinates_(8)=675
+ActiveSymbolKeyVal_(9)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(9)=1915
+ActiveSymbolKeyLeftCoordinates_(9)=3000
+ActiveSymbolKeyVal_(10)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(10)=1765
+ActiveSymbolKeyLeftCoordinates_(10)=8760
+ActiveSymbolKeyVal_(11)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(11)=895
+ActiveSymbolKeyLeftCoordinates_(11)=10680
+ActiveSymbolKeyVal_(12)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(12)=415
+ActiveSymbolKeyLeftCoordinates_(12)=10770
+
+[ActiveAlternateKeyValues]
+ActiveSymbolKeyLeftCoordinates_(12)=10770
+ActiveAlternateKeyVal_(2)=AlternateKeyCode(178)
+ActiveAlternateKeyTopCoordinates_(2)=2740
+ActiveAlternateKeyLeftCoordinates_(2)=2520
+ActiveAlternateKeyVal_(3)=AlternateKeyCode(178)
+ActiveAlternateKeyTopCoordinates_(3)=3505
+ActiveAlternateKeyLeftCoordinates_(3)=3030
+ActiveAlternateKeyVal_(5)=AlternateKeyCode(178)
+ActiveAlternateKeyTopCoordinates_(5)=3520
+ActiveAlternateKeyLeftCoordinates_(5)=6015
+ActiveAlternateKeyVal_(6)=AlternateKeyCode(183)
+ActiveAlternateKeyTopCoordinates_(6)=2800
+ActiveAlternateKeyLeftCoordinates_(6)=1935
+ActiveAlternateKeyVal_(7)=AlternateKeyCode(183)
+ActiveAlternateKeyTopCoordinates_(7)=2995
+ActiveAlternateKeyLeftCoordinates_(7)=3615
+
+[InsertedLinesType]
+InsertedLinesType(0)=Treble Line
+InsertedLinesType(1)=Bass Line
+InsertedLinesType(2)=Perc Line

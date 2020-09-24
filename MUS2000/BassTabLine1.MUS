@@ -1,0 +1,40 @@
+[InsertedLinesType]
+InsertedLinesType(0)=Bass Tab Line
+InsertedLinesType(1)=Bass Tab Line
+InsertedLinesType(2)=Bass Tab Line
+InsertedLinesType(3)=Bass Tab Line
+InsertedLinesType(5)=Bass Tab Line
+ActiveSymbolKeyLeftCoordinates_(9)=3660
+
+[ActiveTextLines]
+InsertedLinesType(5)=Bass Tab Line
+ActiveSymbolKeyLeftCoordinates_(9)=3660
+
+[ActiveSymbolKeyValues]
+ActiveSymbolKeyVal_(2)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(2)=3490
+ActiveSymbolKeyLeftCoordinates_(2)=1170
+ActiveSymbolKeyVal_(3)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(3)=4015
+ActiveSymbolKeyLeftCoordinates_(3)=3840
+ActiveSymbolKeyVal_(4)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(4)=4840
+ActiveSymbolKeyLeftCoordinates_(4)=4755
+ActiveSymbolKeyVal_(5)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(5)=4855
+ActiveSymbolKeyLeftCoordinates_(5)=7890
+ActiveSymbolKeyVal_(6)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(6)=6370
+ActiveSymbolKeyLeftCoordinates_(6)=4710
+ActiveSymbolKeyVal_(7)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(7)=6445
+ActiveSymbolKeyLeftCoordinates_(7)=2280
+ActiveSymbolKeyVal_(8)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(8)=5035
+ActiveSymbolKeyLeftCoordinates_(8)=2355
+ActiveSymbolKeyVal_(9)=SymbolKeyCode(161)
+ActiveSymbolKeyTopCoordinates_(9)=505
+ActiveSymbolKeyLeftCoordinates_(9)=3660
+
+[ActiveAlternateKeyValues]
+ActiveSymbolKeyLeftCoordinates_(9)=3660
