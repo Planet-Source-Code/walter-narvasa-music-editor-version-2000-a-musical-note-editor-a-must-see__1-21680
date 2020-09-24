@@ -1,0 +1,5 @@
+fMain = 132, 132, 522, 580, C, 198, 198, 588, 646, C
+fMusicBoard = 88, 88, 479, 536, C, 0, 0, 390, 448, C
+mInitialization = 132, 132, 503, 580, C
+fSymbolsToolbar = 0, 0, 390, 448, C, 110, 110, 500, 558, C
+fAlternateToolbar = -38, 181, 476, 629, C, 154, 154, 668, 602, C

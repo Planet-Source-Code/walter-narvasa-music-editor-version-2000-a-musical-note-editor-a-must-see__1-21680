@@ -1,0 +1,30 @@
+[ActiveSymbolKeyValues]
+ActiveSymbolKeyVal_(2)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(2)=430
+ActiveSymbolKeyLeftCoordinates_(2)=4275
+ActiveSymbolKeyVal_(3)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(3)=490
+ActiveSymbolKeyLeftCoordinates_(3)=2535
+ActiveSymbolKeyVal_(4)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(4)=1465
+ActiveSymbolKeyLeftCoordinates_(4)=2415
+ActiveSymbolKeyVal_(5)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(5)=925
+ActiveSymbolKeyLeftCoordinates_(5)=3030
+ActiveSymbolKeyVal_(6)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(6)=925
+ActiveSymbolKeyLeftCoordinates_(6)=4500
+ActiveSymbolKeyVal_(7)=SymbolKeyCode(164)
+ActiveSymbolKeyTopCoordinates_(7)=925
+ActiveSymbolKeyLeftCoordinates_(7)=5550
+
+[ActiveAlternateKeyValues]
+ActiveSymbolKeyLeftCoordinates_(7)=5550
+
+[InsertedLinesType]
+InsertedLinesType(0)=Treble Line
+
+[ActiveTextLines]
+InsertedLinesType(0)=Treble Line
+ActiveTextLineVal_(1)=sAMPLE 1
+ActiveTextLineVal_(2)=sAMPLE 1

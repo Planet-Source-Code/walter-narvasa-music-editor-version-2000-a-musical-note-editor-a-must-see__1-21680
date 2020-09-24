@@ -1,0 +1,37 @@
+[ActiveSymbolKeyValues]
+ActiveSymbolKeyVal_(2)=SymbolKeyCode(112)
+ActiveSymbolKeyTopCoordinates_(2)=2185
+ActiveSymbolKeyLeftCoordinates_(2)=2505
+ActiveSymbolKeyVal_(3)=SymbolKeyCode(112)
+ActiveSymbolKeyTopCoordinates_(3)=2545
+ActiveSymbolKeyLeftCoordinates_(3)=3300
+ActiveSymbolKeyVal_(4)=SymbolKeyCode(112)
+ActiveSymbolKeyTopCoordinates_(4)=2980
+ActiveSymbolKeyLeftCoordinates_(4)=6180
+
+[ActiveAlternateKeyValues]
+ActiveSymbolKeyLeftCoordinates_(4)=6180
+ActiveAlternateKeyVal_(5)=AlternateKeyCode(182)
+ActiveAlternateKeyTopCoordinates_(5)=4690
+ActiveAlternateKeyLeftCoordinates_(5)=3315
+ActiveAlternateKeyVal_(6)=AlternateKeyCode(182)
+ActiveAlternateKeyTopCoordinates_(6)=5185
+ActiveAlternateKeyLeftCoordinates_(6)=4500
+ActiveAlternateKeyVal_(7)=AlternateKeyCode(182)
+ActiveAlternateKeyTopCoordinates_(7)=6190
+ActiveAlternateKeyLeftCoordinates_(7)=3450
+ActiveAlternateKeyVal_(8)=AlternateKeyCode(178)
+ActiveAlternateKeyTopCoordinates_(8)=4825
+ActiveAlternateKeyLeftCoordinates_(8)=2610
+ActiveAlternateKeyVal_(9)=AlternateKeyCode(178)
+ActiveAlternateKeyTopCoordinates_(9)=5635
+ActiveAlternateKeyLeftCoordinates_(9)=1980
+ActiveAlternateKeyVal_(10)=AlternateKeyCode(178)
+ActiveAlternateKeyTopCoordinates_(10)=6145
+ActiveAlternateKeyLeftCoordinates_(10)=1470
+
+[InsertedLinesType]
+InsertedLinesType(0)=Treble Line
+InsertedLinesType(1)=Bass Line
+InsertedLinesType(2)=Tenor Line
+InsertedLinesType(3)=Perc Line
